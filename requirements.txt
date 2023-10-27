@@ -1,0 +1,21 @@
+Manual de Uso - Generador de Contraseñas en Python
+
+Ejecución del Programa
+
+1. Abra una terminal en el directorio raíz del proyecto.
+
+2. Ejecute el programa main.py usando el siguiente comando en el terminal:
+python main.py
+
+
+3. El programa le solicitará ingresar varios parámetros para generar la contraseña:
+
+Número mínimo de minúsculas.
+Número mínimo de mayúsculas.
+Número mínimo de caracteres numéricos.
+Longitud de la contraseña.
+
+Ingrese los valores requeridos según sus preferencias.
+
+El programa generará y mostrará la contraseña en la pantalla.
+
