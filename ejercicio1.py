@@ -1,4 +1,4 @@
-#Programa para para validación de númeor par e impar 
+#Programa para para validación de númeor par e impar.
 
 numero = int(input("Ingrese un número: "))
 
